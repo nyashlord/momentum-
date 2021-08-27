@@ -1,0 +1,118 @@
+<ContentPage x:Class="momentum.iphone_11_pro_max___5"
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	Title="iphone_11_pro_max___5">
+	<ContentPage.Content>
+		<ScrollView>
+		<AbsoluteLayout>
+
+
+
+
+			<AbsoluteLayout x:Name="page_iphone_11_pro_max___5_ek1"
+				 AbsoluteLayout.LayoutBounds="0,0,414,896"
+				 >
+
+				<BoxView x:Name="_bg__iphone_11_pro_max___5_ek2"
+					Color="#DA1111"
+					AbsoluteLayout.LayoutBounds="0,0,414,896" />
+
+				<AbsoluteLayout x:Name="frame_1"
+					 AbsoluteLayout.LayoutBounds="83,615,100,100"
+					 >
+
+				</AbsoluteLayout>
+
+				<Label x:Name="error_reduce_amount"
+					FontFamily="Work Sans"
+					FontAttributes="Bold"
+					FontSize="54.72"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="1,615,449.35961341858,152.69961341858"
+					Text="ERROR REDUCE
+AMOUNT"
+				 />
+
+				<AbsoluteLayout x:Name="group_13"
+					 AbsoluteLayout.LayoutBounds="-56.54,122,533,457"
+					 >
+
+					<Image x:Name="noun_emoji_1706013_5"
+						Source="noun_emoji_1706013_5.png"
+						AbsoluteLayout.LayoutBounds="0,0,533,456.61" />
+					<BoxView x:Name="rectangle_16"
+						Color="#DB1111"
+						AbsoluteLayout.LayoutBounds="42,418,270,39" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_28"
+					 AbsoluteLayout.LayoutBounds="0,0,72,51"
+					 >
+
+					<Image x:Name="noun_back_1388068_1"
+						Source="noun_back_1388068_1.png"
+						AbsoluteLayout.LayoutBounds="21,0,51,51" />
+					<BoxView x:Name="rectangle_54"
+						Color="#DB1111"
+						AbsoluteLayout.LayoutBounds="0,42,47,9" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_29"
+					 AbsoluteLayout.LayoutBounds="330,0,61,51"
+					 >
+
+					<Image x:Name="noun_hamburger_2623555_3"
+						Source="noun_hamburger_2623555_3.png"
+						AbsoluteLayout.LayoutBounds="10,0,51,51" />
+					<BoxView x:Name="rectangle_55"
+						Color="#DB1111"
+						AbsoluteLayout.LayoutBounds="0,44,42,7" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_86"
+					 AbsoluteLayout.LayoutBounds="0,828,414,68"
+					 >
+
+					<BoxView x:Name="rectangle_66_ek2"
+						Color="#C4C4C4"
+						AbsoluteLayout.LayoutBounds="0,0,414,68" />
+					<Image x:Name="_noun_chart_3866765_1_ek2"
+						Source="_noun_chart_3866765_1_ek2.png"
+						AbsoluteLayout.LayoutBounds="334,16,36,36" />
+					<Image x:Name="_noun_expense_1433595_1_ek2"
+						Source="_noun_expense_1433595_1_ek2.png"
+						AbsoluteLayout.LayoutBounds="259,11,46,46" />
+					<Image x:Name="_noun_bill_2557324_1_ek2"
+						Source="_noun_bill_2557324_1_ek2.png"
+						AbsoluteLayout.LayoutBounds="184,11,46,46" />
+					<Image x:Name="_noun_balance_3848839_1_ek2"
+						Source="_noun_balance_3848839_1_ek2.png"
+						AbsoluteLayout.LayoutBounds="109,6,55,55" />
+					<Image x:Name="_noun_menu_bar_1600042_1_ek2"
+						Source="_noun_menu_bar_1600042_1_ek2.png"
+						AbsoluteLayout.LayoutBounds="32,0,68,68" />
+					<BoxView x:Name="rectangle_69_ek2"
+						Color="#C4C4C4"
+						AbsoluteLayout.LayoutBounds="26,51,277,15" />
+					<BoxView x:Name="rectangle_70_ek2"
+						Color="#C4C4C4"
+						AbsoluteLayout.LayoutBounds="326,47,44,4" />
+				</AbsoluteLayout>
+
+			</AbsoluteLayout>
+
+
+
+
+		</AbsoluteLayout>
+
+		</ScrollView>
+
+	</ContentPage.Content>
+</ContentPage>

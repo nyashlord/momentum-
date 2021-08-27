@@ -1,0 +1,269 @@
+<ContentPage x:Class="momentum.iphone_11_pro_max___8"
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	Title="iphone_11_pro_max___8">
+	<ContentPage.Content>
+		<ScrollView>
+		<AbsoluteLayout>
+
+
+
+
+
+
+			<AbsoluteLayout x:Name="page_iphone_11_pro_max___8_ek1"
+				 AbsoluteLayout.LayoutBounds="0,0,414,1115"
+				 >
+
+				<BoxView x:Name="_bg__iphone_11_pro_max___8_ek2"
+					Color="#F06868"
+					AbsoluteLayout.LayoutBounds="0,0,414,1115" />
+				<Label x:Name="report"
+					FontFamily="Work Sans"
+					FontAttributes="Bold"
+					TextDecorations="Underline"
+					FontSize="54.72"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="36,62,210.35961341858,102.35961341858"
+					Text="Report"
+				 />
+
+				<AbsoluteLayout x:Name="group_73"
+					 AbsoluteLayout.LayoutBounds="9,136,367,392"
+					 >
+
+					<Image x:Name="noun_pie_chart_1539203_1"
+						Source="noun_pie_chart_1539203_1.png"
+						AbsoluteLayout.LayoutBounds="8,23,350,350" />
+					<BoxView x:Name="rectangle_45"
+						Color="#F06868"
+						AbsoluteLayout.LayoutBounds="0,317,192,43" />
+					<Image x:Name="vector_12"
+						Source="vector_12.png"
+						AbsoluteLayout.LayoutBounds="120,269,18.5,108.5" />
+					<Image x:Name="vector_13"
+						Source="vector_13.png"
+						AbsoluteLayout.LayoutBounds="247,243,61,71" />
+					<Image x:Name="vector_14"
+						Source="vector_14.png"
+						AbsoluteLayout.LayoutBounds="263,52,75,66" />
+					<Image x:Name="vector_15"
+						Source="vector_15.png"
+						AbsoluteLayout.LayoutBounds="205,17,33,68.5" />
+					<Label x:Name="savings_ek1"
+						FontFamily="Work Sans"
+						FontSize="16.47"
+						TextColor="#000000"
+						AbsoluteLayout.LayoutBounds="86,373,72,30.233333587646"
+						Text="Savings"
+					 />
+					<Label x:Name="subcriptions"
+						FontFamily="Work Sans"
+						FontSize="16.47"
+						TextColor="#000000"
+						AbsoluteLayout.LayoutBounds="258,315,111.23333358765,30.233333587646"
+						Text="Subcriptions"
+					 />
+					<Label x:Name="shopping_ek1"
+						FontFamily="Work Sans"
+						FontSize="16.47"
+						TextColor="#000000"
+						AbsoluteLayout.LayoutBounds="294,33,86.233333587646,30.233333587646"
+						Text="Shopping"
+					 />
+					<Label x:Name="occassions"
+						FontFamily="Work Sans"
+						FontSize="16.47"
+						TextColor="#000000"
+						AbsoluteLayout.LayoutBounds="207,0,101.23333358765,30.233333587646"
+						Text="Occassions"
+					 />
+				</AbsoluteLayout>
+
+				<BoxView x:Name="rectangle_46"
+					Color="#ffffff"
+					AbsoluteLayout.LayoutBounds="24,571,366,69" > 
+									<!-- Effect support coming soon for Xamarin Forms -->
+				</BoxView>
+				<Label x:Name="spent"
+					FontFamily="Work Sans"
+					FontSize="16.47"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="56,581,59.233333587646,30.233333587646"
+					Text="Spent"
+				 />
+				<Label x:Name="savings_ek2"
+					FontFamily="Work Sans"
+					FontSize="16.47"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="314,581,72.233333587646,30.233333587646"
+					Text="Savings"
+				 />
+				<Label x:Name="__2_750"
+					FontFamily="Work Sans"
+					FontAttributes="Bold"
+					FontSize="20"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="55,606,78,37"
+					Text="$2,750"
+				 />
+				<Label x:Name="__4_570"
+					FontFamily="Work Sans"
+					FontAttributes="Bold"
+					FontSize="20"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="309,608,81,37"
+					Text="$4,570"
+				 />
+				<Label x:Name="breakdown"
+					FontFamily="Work Sans"
+					FontAttributes="Bold"
+					TextDecorations="Underline"
+					FontSize="25.22"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="36,683,163,46.608695983887"
+					Text="Breakdown"
+				 />
+				<BoxView x:Name="rectangle_47"
+					Color="#F3DB05"
+					AbsoluteLayout.LayoutBounds="24,755,366,90" />
+				<Label x:Name="netflix_spotify_nba"
+					FontFamily="Work Sans"
+					FontSize="16.15"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="27,771.56,90.072580337524,66.962580337524"
+					Text="Netflix
+spotify
+NBA"
+				 />
+				<Label x:Name="groceries_clothes_accessories"
+					FontFamily="Work Sans"
+					FontSize="16.15"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="134,772,128.07258033752,68.072580337524"
+					Text="Groceries
+Clothes
+Accessories"
+				 />
+				<Label x:Name="party_family_event"
+					FontFamily="Work Sans"
+					FontSize="16.15"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="280,772,87.072580337524,68.072580337524"
+					Text="Party
+Family
+Event"
+				 />
+				<BoxView x:Name="rectangle_48"
+					Color="#ffffff"
+					AbsoluteLayout.LayoutBounds="24,922,168,87" > 
+									<!-- Effect support coming soon for Xamarin Forms -->
+				</BoxView>
+				<BoxView x:Name="rectangle_49"
+					Color="#ffffff"
+					AbsoluteLayout.LayoutBounds="215,922,175,87" > 
+									<!-- Effect support coming soon for Xamarin Forms -->
+				</BoxView>
+				<Label x:Name="legal_stuff"
+					FontFamily="Work Sans"
+					FontAttributes="Bold"
+					TextDecorations="Underline"
+					FontSize="20"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="24,930,146,37"
+					Text="LEGAL STUFF"
+				 />
+				<Label x:Name="about"
+					FontFamily="Work Sans"
+					FontAttributes="Bold"
+					TextDecorations="Underline"
+					FontSize="20"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="227,930,83,37"
+					Text="ABOUT"
+				 />
+				<Label x:Name="terms_of_use_privacy_policy"
+					FontFamily="Work Sans"
+					FontSize="16.29"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="27,959,117.14457798004,48.734577980042"
+					Text="Terms of use
+Privacy policy"
+				 />
+				<Label x:Name="contact_us_faq"
+					FontFamily="Work Sans"
+					FontSize="16.29"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="230,955,98.144577980042,49.144577980042"
+					Text="Contact us
+FAQ"
+				 />
+
+				<AbsoluteLayout x:Name="group_72"
+					 AbsoluteLayout.LayoutBounds="22,0,53,53"
+					 >
+
+					<Image x:Name="noun_back_1388068_3_ek2"
+						Source="noun_back_1388068_3_ek2.png"
+						AbsoluteLayout.LayoutBounds="2,0,51,51" />
+					<BoxView x:Name="rectangle_60"
+						Color="#F06868"
+						AbsoluteLayout.LayoutBounds="0,41,24,12" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_95"
+					 AbsoluteLayout.LayoutBounds="327,0,63,52"
+					 >
+
+					<Image x:Name="noun_hamburger_2623555_5_ek1"
+						Source="noun_hamburger_2623555_5_ek1.png"
+						AbsoluteLayout.LayoutBounds="12,0,51,51" />
+					<BoxView x:Name="rectangle_61"
+						Color="#F06868"
+						AbsoluteLayout.LayoutBounds="0,43,46,9" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_89"
+					 AbsoluteLayout.LayoutBounds="0,1047,414,68"
+					 >
+
+					<BoxView x:Name="rectangle_66_ek5"
+						Color="#C4C4C4"
+						AbsoluteLayout.LayoutBounds="0,0,414,68" />
+					<Image x:Name="noun_chart_3866765_1_ek5"
+						Source="noun_chart_3866765_1_ek5.png"
+						AbsoluteLayout.LayoutBounds="334,16,36,36" />
+					<Image x:Name="_noun_expense_1433595_1_ek5"
+						Source="_noun_expense_1433595_1_ek5.png"
+						AbsoluteLayout.LayoutBounds="259,11,46,46" />
+					<Image x:Name="_noun_bill_2557324_1_ek5"
+						Source="_noun_bill_2557324_1_ek5.png"
+						AbsoluteLayout.LayoutBounds="184,11,46,46" />
+					<Image x:Name="_noun_balance_3848839_1_ek5"
+						Source="_noun_balance_3848839_1_ek5.png"
+						AbsoluteLayout.LayoutBounds="109,6,55,55" />
+					<Image x:Name="_noun_menu_bar_1600042_1_ek5"
+						Source="_noun_menu_bar_1600042_1_ek5.png"
+						AbsoluteLayout.LayoutBounds="32,0,68,68" />
+					<BoxView x:Name="rectangle_69_ek5"
+						Color="#C4C4C4"
+						AbsoluteLayout.LayoutBounds="26,51,277,15" />
+					<BoxView x:Name="rectangle_70_ek5"
+						Color="#C4C4C4"
+						AbsoluteLayout.LayoutBounds="326,47,44,4" />
+				</AbsoluteLayout>
+
+			</AbsoluteLayout>
+
+
+		</AbsoluteLayout>
+
+		</ScrollView>
+
+	</ContentPage.Content>
+</ContentPage>

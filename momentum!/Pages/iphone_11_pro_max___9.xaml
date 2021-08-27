@@ -1,0 +1,184 @@
+<ContentPage x:Class="momentum.iphone_11_pro_max___9"
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	Title="iphone_11_pro_max___9">
+	<ContentPage.Content>
+		<ScrollView>
+		<AbsoluteLayout>
+
+
+
+
+
+
+			<AbsoluteLayout x:Name="page_iphone_11_pro_max___9_ek1"
+				 AbsoluteLayout.LayoutBounds="0,0,414,896"
+				 >
+
+				<BoxView x:Name="_bg__iphone_11_pro_max___9_ek2"
+					Color="#E2E2E2"
+					AbsoluteLayout.LayoutBounds="0,0,414,896" />
+
+				<AbsoluteLayout x:Name="group_34"
+					 AbsoluteLayout.LayoutBounds="327,0,63,52"
+					 >
+
+					<Image x:Name="noun_hamburger_2623555_5_ek2"
+						Source="noun_hamburger_2623555_5_ek2.png"
+						AbsoluteLayout.LayoutBounds="12,0,51,51" />
+					<BoxView x:Name="rectangle_61_ek1"
+						Color="#E2E2E2"
+						AbsoluteLayout.LayoutBounds="0,43,46,9" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_35"
+					 AbsoluteLayout.LayoutBounds="22,0,53,53"
+					 >
+
+					<Image x:Name="noun_back_1388068_3_ek3"
+						Source="noun_back_1388068_3_ek3.png"
+						AbsoluteLayout.LayoutBounds="2,0,51,51" />
+					<BoxView x:Name="rectangle_60_ek1"
+						Color="#E2E2E2"
+						AbsoluteLayout.LayoutBounds="0,41,24,12" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_90"
+					 AbsoluteLayout.LayoutBounds="0,828,414,68"
+					 >
+
+					<BoxView x:Name="rectangle_66_ek6"
+						Color="#C4C4C4"
+						AbsoluteLayout.LayoutBounds="0,0,414,68" />
+					<Image x:Name="_noun_chart_3866765_1_ek6"
+						Source="_noun_chart_3866765_1_ek6.png"
+						AbsoluteLayout.LayoutBounds="334,16,36,36" />
+					<Image x:Name="_noun_expense_1433595_1_ek6"
+						Source="_noun_expense_1433595_1_ek6.png"
+						AbsoluteLayout.LayoutBounds="259,11,46,46" />
+					<Image x:Name="_noun_bill_2557324_1_ek6"
+						Source="_noun_bill_2557324_1_ek6.png"
+						AbsoluteLayout.LayoutBounds="184,11,46,46" />
+					<Image x:Name="_noun_balance_3848839_1_ek6"
+						Source="_noun_balance_3848839_1_ek6.png"
+						AbsoluteLayout.LayoutBounds="109,6,55,55" />
+					<Image x:Name="_noun_menu_bar_1600042_1_ek6"
+						Source="_noun_menu_bar_1600042_1_ek6.png"
+						AbsoluteLayout.LayoutBounds="32,0,68,68" />
+					<BoxView x:Name="rectangle_69_ek6"
+						Color="#C4C4C4"
+						AbsoluteLayout.LayoutBounds="26,51,277,15" />
+					<BoxView x:Name="rectangle_70_ek6"
+						Color="#C4C4C4"
+						AbsoluteLayout.LayoutBounds="326,47,44,4" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_78"
+					 AbsoluteLayout.LayoutBounds="0,166,391.52,44.47"
+					 >
+
+					<Label x:Name="total_current_balance_ek1"
+						FontFamily="Work Sans"
+						FontAttributes="Bold"
+						TextDecorations="Underline"
+						FontSize="34.78"
+						TextColor="#000000"
+						AbsoluteLayout.LayoutBounds="35,0,379,64.391305923462"
+						Text="Total current balance"
+					 />
+					<Image x:Name="vector_16"
+						Source="vector_16.png"
+						AbsoluteLayout.LayoutBounds="0,3,37.5,41.45" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_77"
+					 AbsoluteLayout.LayoutBounds="0,259,378,45.45"
+					 >
+
+					<Label x:Name="upcoming_payments_ek1"
+						FontFamily="Work Sans"
+						FontAttributes="Bold"
+						TextDecorations="Underline"
+						FontSize="34.78"
+						TextColor="#000000"
+						AbsoluteLayout.LayoutBounds="39,0,361.39130592346,65.391305923462"
+						Text="Upcoming payments"
+					 />
+					<Image x:Name="vector_17"
+						Source="vector_17.png"
+						AbsoluteLayout.LayoutBounds="0,4,37.5,41.45" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_76"
+					 AbsoluteLayout.LayoutBounds="0,353,194,45.45"
+					 >
+
+					<Label x:Name="add_a_bill_ek1"
+						FontFamily="Work Sans"
+						FontAttributes="Bold"
+						TextDecorations="Underline"
+						FontSize="34.78"
+						TextColor="#000000"
+						AbsoluteLayout.LayoutBounds="39,0,177.39130592346,65.391305923462"
+						Text="Add a bill"
+					 />
+					<Image x:Name="vector_18"
+						Source="vector_18.png"
+						AbsoluteLayout.LayoutBounds="0,4,37.5,41.45" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_75"
+					 AbsoluteLayout.LayoutBounds="0,448,331,46.45"
+					 >
+
+					<Label x:Name="add_your_expense_ek1"
+						FontFamily="Work Sans"
+						FontAttributes="Bold"
+						TextDecorations="Underline"
+						FontSize="34.78"
+						TextColor="#000000"
+						AbsoluteLayout.LayoutBounds="37,0,316.39130592346,65.391305923462"
+						Text="Add your expense"
+					 />
+					<Image x:Name="vector_19"
+						Source="vector_19.png"
+						AbsoluteLayout.LayoutBounds="0,5,37.5,41.45" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_74"
+					 AbsoluteLayout.LayoutBounds="0,543,150,46.45"
+					 >
+
+					<Label x:Name="report_ek1"
+						FontFamily="Work Sans"
+						FontAttributes="Bold"
+						TextDecorations="Underline"
+						FontSize="34.78"
+						TextColor="#000000"
+						AbsoluteLayout.LayoutBounds="37,0,135.39130592346,65.391305923462"
+						Text="Report"
+					 />
+					<Image x:Name="vector_20"
+						Source="vector_20.png"
+						AbsoluteLayout.LayoutBounds="0,5,37.5,41.45" />
+				</AbsoluteLayout>
+
+			</AbsoluteLayout>
+
+
+		</AbsoluteLayout>
+
+		</ScrollView>
+
+	</ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,204 @@
+<ContentPage x:Class="momentum.iphone_11_pro_max___6"
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	Title="iphone_11_pro_max___6">
+	<ContentPage.Content>
+		<ScrollView>
+		<AbsoluteLayout>
+
+
+
+
+			<AbsoluteLayout x:Name="page_iphone_11_pro_max___6_ek1"
+				 AbsoluteLayout.LayoutBounds="0,0,414,1228"
+				 >
+
+				<BoxView x:Name="_bg__iphone_11_pro_max___6_ek2"
+					Color="#"
+					AbsoluteLayout.LayoutBounds="0,0,414,1228" > 
+									<!-- Effect support coming soon for Xamarin Forms -->
+				</BoxView>
+				<Label x:Name="add_a_bill"
+					FontFamily="Work Sans"
+					FontAttributes="Bold"
+					TextDecorations="Underline"
+					FontSize="43.62"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="21,85,222,82.129209823608"
+					Text="Add a bill"
+				 />
+				<Label x:Name="name"
+					FontFamily="Work Sans"
+					FontAttributes="Bold"
+					TextDecorations="Underline"
+					FontSize="26.94"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="26,218,98.469388008118,49.449388008118"
+					Text="NAME"
+				 />
+				<BoxView x:Name="rectangle_25"
+					Color="#FF4B4B"
+					AbsoluteLayout.LayoutBounds="26,475,366,73" />
+
+				<AbsoluteLayout x:Name="group_94"
+					 AbsoluteLayout.LayoutBounds="28,291,366,73"
+					 >
+
+					<BoxView x:Name="rectangle_24"
+						Color="#F58707"
+						AbsoluteLayout.LayoutBounds="0,0,366,73" />
+					<Image x:Name="noun_clear_760521_1"
+						Source="noun_clear_760521_1.png"
+						AbsoluteLayout.LayoutBounds="305,10,60,60" />
+					<Image x:Name="noun_grocery_4183853_1"
+						Source="noun_grocery_4183853_1.png"
+						AbsoluteLayout.LayoutBounds="0,5,65,65" />
+					<BoxView x:Name="rectangle_29"
+						Color="#F58707"
+						AbsoluteLayout.LayoutBounds="0,56,51,12" />
+					<Label x:Name="shopping"
+						FontFamily="Work Sans"
+						FontSize="22.64"
+						TextColor="#000000"
+						AbsoluteLayout.LayoutBounds="65,23,117.31896495819,42.438964958191"
+						Text="Shopping"
+					 />
+					<BoxView x:Name="rectangle_30"
+						Color="#F58707"
+						AbsoluteLayout.LayoutBounds="287,60,54,7" />
+				</AbsoluteLayout>
+
+				<Label x:Name="next_bill_due"
+					FontFamily="Work Sans"
+					FontAttributes="Bold"
+					TextDecorations="Underline"
+					FontSize="24.14"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="24,405.62,192.06896591187,44.828965911865"
+					Text="NEXT BILL DUE"
+				 />
+				<Label x:Name="frequency"
+					FontFamily="Work Sans"
+					FontAttributes="Bold"
+					TextDecorations="Underline"
+					FontSize="26.94"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="28,590,178.46938800812,50.469388008118"
+					Text="FREQUENCY"
+				 />
+				<Label x:Name="amount"
+					FontFamily="Work Sans"
+					FontAttributes="Bold"
+					TextDecorations="Underline"
+					FontSize="26.94"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="24,779,135.46938800812,50.469388008118"
+					Text="AMOUNT"
+				 />
+				<BoxView x:Name="rectangle_27"
+					Color="#08EF2D"
+					AbsoluteLayout.LayoutBounds="24,853,366,73" />
+				<BoxView x:Name="_rectangle_26"
+					Color="#000000"
+					AbsoluteLayout.LayoutBounds="24,1006,366,73" />
+				<Label x:Name="add_bill"
+					FontFamily="Work Sans"
+					FontSize="26"
+					TextColor="#FFFFFF"
+					AbsoluteLayout.LayoutBounds="160,1028,112,48"
+					Text="Add bill"
+				 />
+
+				<AbsoluteLayout x:Name="group_64"
+					 AbsoluteLayout.LayoutBounds="26,664,366,73"
+					 >
+
+					<BoxView x:Name="rectangle_28"
+						Color="#FFD02D"
+						AbsoluteLayout.LayoutBounds="0,0,366,73" />
+					<Image x:Name="noun_change_3845248_1"
+						Source="noun_change_3845248_1.png"
+						AbsoluteLayout.LayoutBounds="301,9,58,58" />
+					<Label x:Name="every_month"
+						FontFamily="Work Sans"
+						FontSize="26"
+						TextColor="#000000"
+						AbsoluteLayout.LayoutBounds="13,22,174,48"
+						Text="Every month"
+					 />
+					<BoxView x:Name="rectangle_31"
+						Color="#FFD02D"
+						AbsoluteLayout.LayoutBounds="299,58,34,9" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_81"
+					 AbsoluteLayout.LayoutBounds="24,0,51,51"
+					 >
+
+					<Image x:Name="noun_back_1388068_2_ek1"
+						Source="noun_back_1388068_2_ek1.png"
+						AbsoluteLayout.LayoutBounds="0,0,51,51" />
+					<BoxView x:Name="rectangle_56"
+						Color="#0A4516"
+						AbsoluteLayout.LayoutBounds="1,43,22,5" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_82"
+					 AbsoluteLayout.LayoutBounds="326,0,51,51"
+					 >
+
+					<Image x:Name="noun_hamburger_2623555_4"
+						Source="noun_hamburger_2623555_4.png"
+						AbsoluteLayout.LayoutBounds="0,0,51,51" />
+					<BoxView x:Name="rectangle_57"
+						Color="#ADFF6C"
+						AbsoluteLayout.LayoutBounds="2,41,32,7" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_87"
+					 AbsoluteLayout.LayoutBounds="0,1160,414,68"
+					 >
+
+					<BoxView x:Name="rectangle_66_ek3"
+						Color="#C4C4C4"
+						AbsoluteLayout.LayoutBounds="0,0,414,68" />
+					<Image x:Name="_noun_chart_3866765_1_ek3"
+						Source="_noun_chart_3866765_1_ek3.png"
+						AbsoluteLayout.LayoutBounds="334,16,36,36" />
+					<Image x:Name="_noun_expense_1433595_1_ek3"
+						Source="_noun_expense_1433595_1_ek3.png"
+						AbsoluteLayout.LayoutBounds="259,11,46,46" />
+					<Image x:Name="noun_bill_2557324_1_ek3"
+						Source="noun_bill_2557324_1_ek3.png"
+						AbsoluteLayout.LayoutBounds="184,11,46,46" />
+					<Image x:Name="_noun_balance_3848839_1_ek3"
+						Source="_noun_balance_3848839_1_ek3.png"
+						AbsoluteLayout.LayoutBounds="109,6,55,55" />
+					<Image x:Name="_noun_menu_bar_1600042_1_ek3"
+						Source="_noun_menu_bar_1600042_1_ek3.png"
+						AbsoluteLayout.LayoutBounds="32,0,68,68" />
+					<BoxView x:Name="rectangle_69_ek3"
+						Color="#C4C4C4"
+						AbsoluteLayout.LayoutBounds="26,51,277,15" />
+					<BoxView x:Name="rectangle_70_ek3"
+						Color="#C4C4C4"
+						AbsoluteLayout.LayoutBounds="326,47,44,4" />
+				</AbsoluteLayout>
+
+			</AbsoluteLayout>
+
+
+
+
+		</AbsoluteLayout>
+
+		</ScrollView>
+
+	</ContentPage.Content>
+</ContentPage>

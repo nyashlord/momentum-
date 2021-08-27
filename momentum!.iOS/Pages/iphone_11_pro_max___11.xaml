@@ -1,0 +1,218 @@
+<ContentPage x:Class="momentum.iphone_11_pro_max___11"
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	Title="iphone_11_pro_max___11">
+	<ContentPage.Content>
+		<ScrollView>
+		<AbsoluteLayout>
+
+
+
+
+
+
+
+
+			<AbsoluteLayout x:Name="page_iphone_11_pro_max___11_ek1"
+				 AbsoluteLayout.LayoutBounds="0,0,414,896"
+				 >
+
+				<BoxView x:Name="_bg__iphone_11_pro_max___11_ek2"
+					Color="#"
+					AbsoluteLayout.LayoutBounds="0,0,414,896" > 
+									<!-- Effect support coming soon for Xamarin Forms -->
+				</BoxView>
+				<Label x:Name="upcoming_payments_ek3"
+					FontFamily="Work Sans"
+					FontAttributes="Bold"
+					TextDecorations="Underline"
+					FontSize="27.65"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="27,75,303,51.823529243469"
+					Text="Upcoming Payments"
+				 />
+
+				<AbsoluteLayout x:Name="group_8_ek2"
+					 AbsoluteLayout.LayoutBounds="24,178,366,102"
+					 >
+
+					<BoxView x:Name="rectangle_12_ek2"
+						Color="#08EF2D"
+						AbsoluteLayout.LayoutBounds="0,0,366,102" />
+					<Label x:Name="next_week_ek2"
+						FontFamily="Work Sans"
+						FontAttributes="Bold"
+						FontSize="27.65"
+						TextColor="#000000"
+						AbsoluteLayout.LayoutBounds="20,10,160,51.823529243469"
+						Text="Next week"
+					 />
+					<Image x:Name="noun_music_app_2849414_1_ek2"
+						Source="noun_music_app_2849414_1_ek2.png"
+						AbsoluteLayout.LayoutBounds="276,10,81,85" />
+					<Label x:Name="__24_ek2"
+						FontFamily="Work Sans"
+						FontAttributes="Bold"
+						FontSize="35.36"
+						TextColor="#000000"
+						AbsoluteLayout.LayoutBounds="57,51,91,65.480000305176"
+						Text="$24"
+					 />
+					<BoxView x:Name="rectangle_18_ek2"
+						Color="#08EF2D"
+						AbsoluteLayout.LayoutBounds="270,84,46,18" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_9_ek2"
+					 AbsoluteLayout.LayoutBounds="24,340,366,102"
+					 >
+
+					<BoxView x:Name="rectangle_13_ek2"
+						Color="#F2B61D"
+						AbsoluteLayout.LayoutBounds="0,0,366,102" />
+					<Image x:Name="noun_basketball_152148_1_ek2"
+						Source="noun_basketball_152148_1_ek2.png"
+						AbsoluteLayout.LayoutBounds="271,0,90,96" />
+					<Label x:Name="next_month_ek2"
+						FontFamily="Work Sans"
+						FontAttributes="Bold"
+						FontSize="27.62"
+						TextColor="#000000"
+						AbsoluteLayout.LayoutBounds="15,5,176,51.82975151062"
+						Text="Next month"
+					 />
+					<Label x:Name="__15_ek2"
+						FontFamily="Work Sans"
+						FontAttributes="Bold"
+						FontSize="35.36"
+						TextColor="#000000"
+						AbsoluteLayout.LayoutBounds="57,48,81,65.680000305176"
+						Text="$15"
+					 />
+					<BoxView x:Name="rectangle_19_ek2"
+						Color="#F2B61D"
+						AbsoluteLayout.LayoutBounds="259,96,85,13" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_93"
+					 AbsoluteLayout.LayoutBounds="24,503,366,102"
+					 >
+
+					<BoxView x:Name="rectangle_13_ek3"
+						Color="#F2B61D"
+						AbsoluteLayout.LayoutBounds="0,0,366,102" />
+					<Image x:Name="noun_grocery_4183853_1_ek1"
+						Source="noun_grocery_4183853_1_ek1.png"
+						AbsoluteLayout.LayoutBounds="287,17,65,65" />
+					<Label x:Name="next_month_ek3"
+						FontFamily="Work Sans"
+						FontAttributes="Bold"
+						FontSize="27.62"
+						TextColor="#000000"
+						AbsoluteLayout.LayoutBounds="15,5,176,51.82975151062"
+						Text="Next month"
+					 />
+					<Label x:Name="__15_ek3"
+						FontFamily="Work Sans"
+						FontAttributes="Bold"
+						FontSize="35.36"
+						TextColor="#000000"
+						AbsoluteLayout.LayoutBounds="57,48,81,65.680000305176"
+						Text="$15"
+					 />
+					<BoxView x:Name="rectangle_19_ek3"
+						Color="#F2B61D"
+						AbsoluteLayout.LayoutBounds="270,83,85,13" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_91_ek1"
+					 AbsoluteLayout.LayoutBounds="24,652,370.03,68.42"
+					 >
+
+					<BoxView x:Name="rectangle_15_ek2"
+						Color="#DB1111"
+						AbsoluteLayout.LayoutBounds="0,0,366,57" />
+					<Image x:Name="_noun_plus_1214703_1_ek2"
+						Source="_noun_plus_1214703_1_ek2.png"
+						AbsoluteLayout.LayoutBounds="38,4,53,53" />
+					<Image x:Name="noun_minus_4163957_1_ek2"
+						Source="noun_minus_4163957_1_ek2.png"
+						AbsoluteLayout.LayoutBounds="271,0,99.03,68.42" />
+					<BoxView x:Name="rectangle_21_ek2"
+						Color="#DB1111"
+						AbsoluteLayout.LayoutBounds="271,47,73,10" />
+					<BoxView x:Name="rectangle_23_ek2"
+						Color="#DB1111"
+						AbsoluteLayout.LayoutBounds="28,50,37,7" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_85_ek2"
+					 AbsoluteLayout.LayoutBounds="0,828,414,68"
+					 >
+
+					<BoxView x:Name="rectangle_66_ek8"
+						Color="#C4C4C4"
+						AbsoluteLayout.LayoutBounds="0,0,414,68" />
+					<Image x:Name="_noun_chart_3866765_1_ek8"
+						Source="_noun_chart_3866765_1_ek8.png"
+						AbsoluteLayout.LayoutBounds="334,16,36,36" />
+					<Image x:Name="_noun_expense_1433595_1_ek8"
+						Source="_noun_expense_1433595_1_ek8.png"
+						AbsoluteLayout.LayoutBounds="259,11,46,46" />
+					<Image x:Name="_noun_bill_2557324_1_ek8"
+						Source="_noun_bill_2557324_1_ek8.png"
+						AbsoluteLayout.LayoutBounds="184,11,46,46" />
+					<Image x:Name="noun_balance_3848839_1_ek8"
+						Source="noun_balance_3848839_1_ek8.png"
+						AbsoluteLayout.LayoutBounds="109,6,55,55" />
+					<Image x:Name="_noun_menu_bar_1600042_1_ek8"
+						Source="_noun_menu_bar_1600042_1_ek8.png"
+						AbsoluteLayout.LayoutBounds="32,0,68,68" />
+					<BoxView x:Name="rectangle_69_ek8"
+						Color="#C4C4C4"
+						AbsoluteLayout.LayoutBounds="26,51,277,15" />
+					<BoxView x:Name="rectangle_70_ek8"
+						Color="#C4C4C4"
+						AbsoluteLayout.LayoutBounds="326,47,44,4" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_80_ek2"
+					 AbsoluteLayout.LayoutBounds="346,3,53,51"
+					 >
+
+					<Image x:Name="noun_hamburger_2623555_2_ek2"
+						Source="noun_hamburger_2623555_2_ek2.png"
+						AbsoluteLayout.LayoutBounds="2,0,51,51" />
+					<BoxView x:Name="rectangle_74_ek2"
+						Color="#26C2F3"
+						AbsoluteLayout.LayoutBounds="0,41,34,8" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="group_79_ek2"
+					 AbsoluteLayout.LayoutBounds="20,3,55,51"
+					 >
+
+					<Image x:Name="noun_back_1388068_2_ek3"
+						Source="noun_back_1388068_2_ek3.png"
+						AbsoluteLayout.LayoutBounds="4,0,51,51" />
+					<BoxView x:Name="rectangle_75_ek2"
+						Color="#26C2F3"
+						AbsoluteLayout.LayoutBounds="0,43,25,8" />
+				</AbsoluteLayout>
+
+			</AbsoluteLayout>
+		</AbsoluteLayout>
+
+		</ScrollView>
+
+	</ContentPage.Content>
+</ContentPage>
